@@ -1,0 +1,45 @@
+h2 {
+    color: rgb(21, 138, 21);
+    text-shadow: 2px 2px 5px lime;
+    border: 3px solid black;
+    border-bottom: 3px solid black;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    width: fit-content;
+}
+body {
+    background-color: azure;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table {
+    border: 2px solid green;
+    border-radius: 5px;
+    border-bottom: 2px double green;
+}
+th {
+    border: 2px solid rgb(72, 206, 54);
+    border-radius: 5px;
+}
+td {
+    border: 2px solid  indigo;
+    border-radius: 5px;
+}
+#D1A {
+    text-align: center;
+    background-color: lightgreen;
+}
+#H1A {
+    text-align: center;
+}
+section {
+  margin-left: 90%;
+}
+button:hover {
+    background-color: lightskyblue;
+}
