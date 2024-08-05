@@ -81,14 +81,14 @@ section {
 #Cidadespolo {
     text-align: center;
 }
-img {
+button {
     -webkit-transition: all 1s ease;
     -moz-transition: all 1s ease;
     -o-transition: all 1s ease;
     transition: all 1s ease;
-    width: 50%;
+    width: 100%;
 }
-img:hover {
+button:hover {
     -webkit-transform: scale(1.25);
     -moz-transform: scale(1.25);
     -o-transform: scale(1.25);
